@@ -20,3 +20,4 @@
 - [Resource 2]: [Description]
 - [Resource 3]: [Description]
 
+### Personal Thoughts
